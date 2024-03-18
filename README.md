@@ -1,6 +1,25 @@
 <a href="URL_of_your_destination_page"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner"></a>
 
-<h1 align="center">Hi 👋, I'm Shamal Rathnayaka</h1>
+<h1 align="center">
+  <span>I'm </span>
+  <span style="color:#FF69B4; transition: color 0.5s;">S</span>
+  <span style="color:#FF6347; transition: color 0.5s;">h</span>
+  <span style="color:#FFD700; transition: color 0.5s;">a</span>
+  <span style="color:#00BFFF; transition: color 0.5s;">m</span>
+  <span style="color:#4B0082; transition: color 0.5s;">a</span>
+  <span style="color:#00FF00; transition: color 0.5s;">l</span>
+  <span style="color:#FFA500; transition: color 0.5s;"> </span>
+  <span style="color:#EE82EE; transition: color 0.5s;">R</span>
+  <span style="color:#9370DB; transition: color 0.5s;">a</span>
+  <span style="color:#40E0D0; transition: color 0.5s;">t</span>
+  <span style="color:#FF0000; transition: color 0.5s;">h</span>
+  <span style="color:#48D1CC; transition: color 0.5s;">n</span>
+  <span style="color:#FF69B4; transition: color 0.5s;">a</span>
+  <span style="color:#FF6347; transition: color 0.5s;">y</span>
+  <span style="color:#FFD700; transition: color 0.5s;">a</span>
+  <span style="color:#00BFFF; transition: color 0.5s;">k</span>
+  <span style="color:#4B0082; transition: color 0.5s;">a</span>
+</h1>
 <h3 align="center">A passionate Artificial Intelligence and Data Science Student In Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamalrthnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="shamalrthnayaka" /> </p>
